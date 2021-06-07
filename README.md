@@ -9,5 +9,3 @@
 ⚒️ Specializing in Node.js
 
 🌱 Interested in Kotlin, Scala, Akka
-
-🐦 twitter.com/joaolucasluc
