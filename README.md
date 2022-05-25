@@ -4,8 +4,6 @@
 
 🌎 Sorocaba region, São Paulo, Brazil
 
-👷 Building Financial Infrastructure @ Hash.com.br
-
 ⚒️ Specializing in Node.js
 
 🌱 Interested in Kotlin, Scala, Akka
